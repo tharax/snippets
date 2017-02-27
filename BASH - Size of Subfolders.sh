@@ -1,2 +1,3 @@
 find -type d |
--du h
+du -h |
+sort
